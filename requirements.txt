@@ -145,7 +145,6 @@ rpds-py==0.18.1
 rsa==4.9
 scikit-learn==1.4.2
 scipy==1.13.0
-screen-resolution-extra==0.0.0
 seaborn==0.13.2
 SecretStorage==3.3.1
 semver==3.0.2
@@ -196,5 +195,4 @@ websocket-client==1.8.0
 Werkzeug==3.0.3
 widgetsnbextension==4.0.10
 wrapt==1.14.1
-xkit==0.0.0
 zipp==1.0.0
