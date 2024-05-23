@@ -98,3 +98,4 @@ weasel==0.3.4
 Werkzeug==3.0.3
 wrapt==1.16.0
 zipp==3.18.2
+pt-core-news-md @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_md-3.2.0/pt_core_news_md-3.2.0.tar.gz
